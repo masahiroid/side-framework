@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite it using these metadata."
+title: "SIDE Framework: Structural Inversion Detection through Enquiry"
+authors:
+  - family-names: Nakatsugawa
+    given-names: Masahiro
+    orcid: "https://orcid.org/0009-0000-3224-0103"
+abstract: >-
+  A diagnostic framework for uncovering hidden misalignments of responsibility, authority
+  and structure in organizations, based on four questions: who should be doing this, do they
+  have the authority or tools to act, is the relationship appropriate, and is the
+  misalignment structural or incidental. Useful for spotting early signs of dysfunction in
+  Agile, digital transformation and OKR settings.
+repository-code: "https://github.com/masahiroid/side-framework"
+license: CC-BY-4.0
+keywords:
+  - organizational-diagnosis
+  - responsibility-and-authority
+  - structure
+  - agile
+  - framework
