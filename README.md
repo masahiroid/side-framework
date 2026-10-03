@@ -1,5 +1,7 @@
 # SIDE Framework
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23122889.svg)](https://doi.org/10.5281/zenodo.23122889)
+
 **Structural Inversion Detection through Enquiry**  
 A framework for identifying hidden misalignments of responsibility, authority, and structure through targeted questioning.
 

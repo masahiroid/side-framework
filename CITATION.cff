@@ -13,6 +13,9 @@ abstract: >-
   Agile, digital transformation and OKR settings.
 repository-code: "https://github.com/masahiroid/side-framework"
 license: CC-BY-4.0
+doi: 10.5281/zenodo.23122889
+version: "1.0.0"
+date-released: "2026-10-04"
 keywords:
   - organizational-diagnosis
   - responsibility-and-authority

@@ -1,5 +1,7 @@
 # SIDEフレームワーク / SIDE Framework
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23122889.svg)](https://doi.org/10.5281/zenodo.23122889)
+
 **Structural Inversion Detection through Enquiry**  
 問いによって構造的な責任の逆転・裁量の歪みを発見する思考フレームワーク
 
